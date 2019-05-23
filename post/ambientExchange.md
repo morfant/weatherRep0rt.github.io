@@ -1,4 +1,4 @@
 ##### [Back](../index.md)
 
 ### Ambient Exchange
-#### MAY, 2019, JEJU, SOUTH KOREA
+#### May 2019, Jeju SOUTH KOREA
