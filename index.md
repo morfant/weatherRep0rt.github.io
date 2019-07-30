@@ -10,7 +10,7 @@ WeatherReport is seoul based art collective of Jiyeon Kim-pianist/composer/sound
 
 
 instagram: [@jiyeonkimsound](https://instagram.com/jiyeonkimsound), [@giy.eyear](https://www.instagram.com/giy.eyear)<br>
-vimeo: https://vimeo.com/weatherreportlive
+vimeo: https://vimeo.com/weatherreportlive<br>
 email: weatherreport.live@gmail.com
 
 
