@@ -1,4 +1,4 @@
-[20190810] [제천국제음악영화제 '음악 들려주는 영화관', 웨더리포트 &lt;투명한 음악&gt; 쇼케이스, 제천시민회관](http://www.jimff.org/kor/addon/10000001/page.asp?page_num=6843)<br>
+[20190810] [제천국제음악영화제 '음악 들려주는 영화관', &lt;투명한 음악&gt; 쇼케이스, 제천시민회관](http://www.jimff.org/kor/addon/10000001/page.asp?page_num=6843)<br>
 [20190504] [제주-런던 네트워크 사운드 퍼포먼스, 문화공간 양(한국), 스태브 힐 생태공원(영국)](https://vimeo.com/337064106)<br>
 [20190329] [피아노 데이 서울 Piano Day Seoul 2019, 적도(한국), 산 메이 갤러리(영국)](https://vimeo.com/337064083)<br>
 
@@ -19,7 +19,7 @@
 
 --
 
-[20160916] 웨더리포트, Clear Spot, resonanceFM(런던)<br>
+[20160916] Clear Spot, resonanceFM(런던)<br>
 [201609] 한-영 리서치 트립 '스트림즈'<br>
 [201607-09] [&lt;웨더리포트&gt;, 라이브 스트리밍 라디오+위클리 메일, 제주](https://us11.campaign-archive.com/home/?u=2df8abd31ed93a75e3f1a9d74&id=0db8bf840f)<br>
 [20160529] Sense of Globe Conference,Tokyo University, Natural Environmental studies<br>
